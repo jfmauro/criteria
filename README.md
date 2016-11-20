@@ -1,1 +1,1 @@
-Filter a map with a criteria. The result is a List of Pair.
+Filter a map with an criteria. The result is a List of Pair.
